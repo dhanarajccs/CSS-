@@ -139,3 +139,10 @@ h6 {
 .test {
     color: blue;
 }
+
+/* inheritance */
+.inheritance {
+    color: red;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
