@@ -1,7 +1,7 @@
 /* universal selector */
-* {
+/* * {
     color: blue;
-}
+} */
 
 
 /* element selector */
@@ -12,7 +12,7 @@ h2 {
 
 /* class selector */
 .error {
-    color: red;
+    color: rgba(244, 35, 12, 0.629);
 }
 
 .success {
@@ -23,4 +23,13 @@ h2 {
 /* id selector */
 #test {
     color: purple;
+}
+
+/* background-color */
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
 }
