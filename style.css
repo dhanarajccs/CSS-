@@ -1,7 +1,9 @@
 /* universal selector */
+/* 
 * {
     color: blue;
-}
+} 
+*/
 
 
 /* element selector */
@@ -33,3 +35,20 @@ h2 {
 .yellow {
     background-color: yellow;
 }
+
+/* font-family */
+/*
+.font-styles {
+    font-family: sans-serif;
+}
+*/
+
+/* font */
+.font-styles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;    
+    text-decoration: underline;
+}
+
