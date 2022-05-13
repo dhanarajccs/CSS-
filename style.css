@@ -129,3 +129,13 @@ h5 {
 #title {
     color: orange;
 }
+
+
+/* cascade / specificity with !important */
+h6 {
+    color: red !important;
+}
+
+.test {
+    color: blue;
+}
