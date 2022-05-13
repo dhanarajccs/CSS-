@@ -94,10 +94,38 @@ ul {
     border-radius: 5px;
 }
 
+/* cascade */
 h4 {
     color: red;
 }
 
 h4 {
     color: blue;
+}
+
+/* specificity */
+
+/*  A class selector is more specific than an element selector  */
+/*
+h5 {
+    color: red;
+}
+
+.sub-heading {
+    color: blue;
+}
+*/
+
+.sub-heading {
+    color: blue;
+}
+
+h5 {
+    color: red;
+}
+
+/* An id selector which is even more specific than an element selector  */
+
+#title {
+    color: orange;
 }
