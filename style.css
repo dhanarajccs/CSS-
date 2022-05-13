@@ -1,3 +1,26 @@
+/* universal selector */
+* {
+    color: blue;
+}
+
+
+/* element selector */
 h2 {
     color: green;
+}
+
+
+/* class selector */
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+
+/* id selector */
+#test {
+    color: purple;
 }
