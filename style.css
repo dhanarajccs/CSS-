@@ -146,3 +146,39 @@ h6 {
     font-family: 'Segoe UI';
     font-size: 20px;
 }
+
+/* table */
+/*
+th, td {
+    border: 1px solid red;
+}   
+*/
+
+/*
+th, td {
+    border: 1px solid red;
+    padding: 15px;
+}
+*/
+
+th, td {
+    border-bottom: 1px solid red;
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+td {
+    text-align: center;
+}
+
+/*
+td {
+    text-align:center;
+    height: 50px;
+    vertical-align: bottom;
+}
+*/
