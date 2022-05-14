@@ -182,3 +182,36 @@ td {
     vertical-align: bottom;
 }
 */
+
+/* display */
+/*
+.content-1 {
+    border: 1px solid red;
+}
+
+.content-2 {
+    border: 1px solid blue;
+}
+*/
+
+/*
+.content-1 {
+    border: 1px solid red;
+    display: inline;
+}
+
+.content-2 {
+    border: 1px solid blue;
+    display: block;
+}
+*/
+
+.content-1 {
+    border: 1px solid red;
+    display: inline;
+}
+
+.content-2 {
+    border: 1px solid blue;
+    display: none;
+}
