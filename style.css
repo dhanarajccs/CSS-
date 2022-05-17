@@ -215,3 +215,107 @@ td {
     border: 1px solid blue;
     display: none;
 }
+
+/* position */
+/*
+.position-1 {
+    border: 1px solid red;
+    position: static;
+}
+
+.position-2 {
+    border: 1px solid blue;
+    position: static;
+}
+*/
+
+/*
+.position-1 {
+    border: 1px solid red;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.position-2 {
+    border: 1px solid blue;
+    position: static;
+}
+*/
+
+/*
+.position-1 {
+    border: 1px solid red;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.position-2 {
+    border: 1px solid blue;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+*/
+
+/*
+.position-1 {
+    border: 1px solid red;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.position-2 {
+    border: 1px solid blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+*
+
+/* 
+.position-3 {
+    border: 1px solid red;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.position-4 {
+    border: 1px solid blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.container {
+    border: 2px solid green;
+    position: relative;
+    width: 200px;
+    height: 200px;
+} 
+*/
+
+
+.position-3 {
+    border: 1px solid red;
+    position: sticky;
+    top: 50px;
+    left: 50px;
+}
+
+.position-4 {
+    border: 1px solid blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.container {
+    border: 2px solid green;
+    position: relative;
+    width: 200px;
+    height: 2000px;
+} 
