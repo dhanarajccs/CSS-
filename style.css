@@ -319,3 +319,30 @@ td {
     width: 200px;
     height: 2000px;
 } 
+
+/* units */
+
+/*  em */
+.em-container {
+    font-size: 20px;
+    height: 2em;
+}
+
+.em-child {
+    font-size: 1.5em;
+}
+
+/* .rem {
+    font-size: 3rem;
+} 
+*/
+
+
+.rem {
+    border: 1px solid red;
+    font-size: 3rem;
+    height: 50vh;
+    width: 50vw;
+}
+
+
